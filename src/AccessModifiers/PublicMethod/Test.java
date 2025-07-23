@@ -10,6 +10,8 @@ public class Test {
 
         student.name ="Shan";
         student.sayHello();
+        System.out.println(student.name);
+        System.out.println(student.age);
     }
 
 }

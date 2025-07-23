@@ -7,8 +7,8 @@ public class Student {
 
     public void sayHello(){
         System.out.println("hello");
-        System.out.println("12");
-        System.out.println("Shan");
+        //System.out.println("12");
+        //System.out.println("Shan");
 
     }
 }

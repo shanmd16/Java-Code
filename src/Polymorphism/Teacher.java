@@ -14,7 +14,7 @@ class Student extends Teacher{
 }
 class Main{
     public static void main(String[] args) {
-        Teacher a= new Student();
+        Teacher a= new Teacher();
         a.sound();
     }
 }
