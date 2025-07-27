@@ -1,5 +1,5 @@
 package Inner_Class;
-
+// Static Inner Class
 public class Computer {
     private String brand;
 

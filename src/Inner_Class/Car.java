@@ -1,5 +1,5 @@
 package Inner_Class;
-
+// Member Inner Class
 public class Car {
     private String model;
     private boolean isEngineOn;

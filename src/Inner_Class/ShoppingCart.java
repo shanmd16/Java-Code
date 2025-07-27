@@ -1,5 +1,5 @@
 package Inner_Class;
-
+// Anonyms Inner Class
 public class ShoppingCart {
     private double totalAmount;
 
