@@ -3,7 +3,7 @@ package Exception;
 public class Boy2 {
     String name;
     int age;
-
+// to String Method with override
     @Override
     public String toString() {
         return "Name: " + name + ", Age: " + age;
