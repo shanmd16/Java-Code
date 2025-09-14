@@ -41,7 +41,7 @@ public class BankAccount {
 
 
 
-    class Mains {
+   class Mains {
         public static void main(String[] args) {
             BankAccount sbi = new BankAccount();
             Runnable task = new Runnable() {
